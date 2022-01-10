@@ -9,6 +9,8 @@ app.set('view engine', 'ejs');
 
 //middleawres
 
+///
+
 
 ///routes
 app.use(require('./routes/index'));
