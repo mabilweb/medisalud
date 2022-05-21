@@ -11,7 +11,6 @@ app.set('view engine', 'ejs');
 
 ///
 
-
 ///routes
 app.use(require('./routes/index'));
 
